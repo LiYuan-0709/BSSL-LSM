@@ -21,16 +21,6 @@ import time
 from aimFunction import function_wsy
 import os
 
-def GetTime(func_name):
-    def wrapper(*args, **kwargs):
-        start_time = time.time()
-        ret = func_name(*args, **kwargs)
-        end_time = time.time()
-        run_time = end_time - start_time
-        print("pso算法运行时间为%f秒" % run_time)
-        return ret
-    return wrapper
-
 
 # 设定参数空间：
 param_space = {'num_neuron':hp.quniform('num_neuron', 200,1000,1)
