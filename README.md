@@ -4,7 +4,7 @@ We appreciate your interest in our work. Code accompanying the paper.
 
 `Authors: Li, Yuan and Zhao, Jingyue and Xiao, Xun and Chen, Renzhi and Wang, Lei`
 
-We feel so sorry that we have identified a few minor issues in the original paper. Below is the corrections:
+We feel so sorry that we have identified some errors in the original paper. Below is the corrections:
 
 > [!CAUTION]
 >
