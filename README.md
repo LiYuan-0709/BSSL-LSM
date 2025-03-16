@@ -20,7 +20,7 @@ We feel so sorry that we have identified a few minor issues in the original pape
 > $$
 > "
 
-These contents require correction. We did not adopt the distance-aware LSM structure generation. We directly search the connection probability between different neuron groups, as shown in **Table 1** in our paper, and in **RC_generater.py** in our source code file.
+These contents require correction. We did not adopt the distance-aware LSM structure generation. We directly search the connection probability between different neuron groups, as shown in **Table 1** in our paper, and in source code file **RC_generater.py**.
 
 > [!NOTE]
 >
